@@ -119,11 +119,8 @@ The complete analysis, including the full code, data, and generated outputs, is 
 
 ---
 
-## Tools & Technologies
-- **Languages**: Python
-- **Libraries**: Pandas, Matplotlib, NumPy
-- **Platform**: Jupyter Notebook, GitHub
-
+## Product Link
+https://github.com/yutongpeng777/ACC102-Miniwork--Tech-Stock-Market-Performance-Analyzer
 ---
 
 ## License
